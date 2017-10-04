@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/veronika/Android_Nanodegree/PopMovies/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/veronika/Android_Nanodegree/PopMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d81e5945592d3399e0f49888c1c6645d79987c25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/veronika/Android_Nanodegree/PopMovies/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="24fdae9020c4af2afd42d83c04f13950278096a6">
+        <dex dex="/Users/veronika/Android_Nanodegree/PopMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_130d787731edf3fc0845a3799e3949ed6bba86d8/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pop Movies</string>
+    <string name="action_refresh">REFRESH</string>
+    <string name="sort_by_popularity">Sort by popularity</string>
+    <string name="sort_by_top_rated">Sort by top rated</string>
+    <string name="error_title">Network connection error</string>
+    <string name="content_image">poster_of_current_movie</string>
+    <string name="error_message">Please check your network connection and try again.</string>
+</resources>
